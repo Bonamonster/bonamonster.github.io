@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title><![CDATA[Bonamonster]]></title>
-  
+  <subtitle><![CDATA[�ҵ�����Ȱ���ң�������������һ�С�]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
   <updated>2016-01-09T04:19:36.490Z</updated>
@@ -9,7 +9,7 @@
   
   <author>
     <name><![CDATA[Fernweh]]></name>
-    
+    <email><![CDATA[bonamonster@163.com]]></email>
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
