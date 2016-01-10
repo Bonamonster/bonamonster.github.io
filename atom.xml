@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title><![CDATA[Bonamonster]]></title>
-  
+  <subtitle><![CDATA[我的灵魂劝导我，爱别人憎恶的一切。]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
   <updated>2016-01-09T04:19:36.490Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name><![CDATA[我的灵魂劝导我，爱别人憎恶的一切。]]></name>
+    <name><![CDATA[BonaDemon]]></name>
     <email><![CDATA[bonamonster@163.com]]></email>
   </author>
   
